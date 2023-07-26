@@ -1,0 +1,10 @@
+* cl-advice
+
+A simple advice system for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/szos/cl-advice.git   |
+| commit  | {"messa  |
+| systems | cl-advice |
+|---------+-------------------------------------------|
+

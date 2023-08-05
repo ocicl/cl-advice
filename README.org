@@ -4,7 +4,7 @@ A simple advice system for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/szos/cl-advice.git   |
-| commit  | {"messa  |
+| commit  | 199963c  |
 | systems | cl-advice |
 |---------+-------------------------------------------|
 
